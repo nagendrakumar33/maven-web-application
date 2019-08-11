@@ -97,7 +97,6 @@
 	      <url>http://13.232.106.78:8081/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
-
 	<build>
 		<finalName>maven-web-application</finalName>
 		<plugins>
